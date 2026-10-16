@@ -13,5 +13,6 @@ python3 script.py
 **Prompts (add to `journal/05_python.md`)**:
 - Screenshot with the program output.
 - In one paragraph: interpretation vs compilation.
-<img width="1920" height="630" alt="image" src="https://github.com/user-attachments/assets/18f2e5c1-40d3-4d8c-9c65-4843b6f9428f" />
+<img width="1920" height="672" alt="image" src="https://github.com/user-attachments/assets/24c1f2a4-fb85-428b-b8db-beb15aed7312" />
+
 
